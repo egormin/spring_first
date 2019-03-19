@@ -1,4 +1,4 @@
-package com.training.eg.first;
+package com.training.eg.first.helloworld;
 
 public class HelloWorldBean {
     private String message;

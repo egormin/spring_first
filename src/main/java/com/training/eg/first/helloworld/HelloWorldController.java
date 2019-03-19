@@ -1,4 +1,4 @@
-package com.training.eg.first;
+package com.training.eg.first.helloworld;
 
 import org.springframework.web.bind.annotation.*;
 
